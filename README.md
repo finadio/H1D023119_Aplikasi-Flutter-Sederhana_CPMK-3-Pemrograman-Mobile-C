@@ -65,7 +65,7 @@ lib/
 ## Demo Aplikasi
 
 ### Video Demo
-<img src="screenshots/demo_pemobcpmk3.gif" width="300">
+<img src="screenshots/demo_pemobcpmk3.gif" width="500">
 
 ---
 
