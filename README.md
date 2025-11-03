@@ -62,31 +62,35 @@ lib/
 
 ---
 
+## Demo Aplikasi
+
+### Video Demo
+<img src="screenshots/demo_pemobcpmk3.gif" width="300">
+
+---
+
 ## Screenshot Aplikasi
 
 ### Splash Screen
-<!-- Tambahkan screenshot splash screen di sini -->
-<img src="screenshots/splash_screen.png" width="250">
+<img src="screenshots/splashscreen.png" width="250">
 
 ### Halaman Utama
-<!-- Tambahkan screenshot home page di sini -->
-<img src="screenshots/home_page.png" width="250">
+<img src="screenshots/home.png" width="250">
 
 ### Halaman Artikel
-<!-- Tambahkan screenshot articles page di sini -->
-<img src="screenshots/articles_page.png" width="250">
+<img src="screenshots/artikel.png" width="250">
 
 ### Detail Artikel
-<!-- Tambahkan screenshot article detail di sini -->
-<img src="screenshots/article_detail.png" width="250">
+<img src="screenshots/detailartikel.png" width="250">
 
 ### Halaman Event
-<!-- Tambahkan screenshot events page di sini -->
-<img src="screenshots/events_page.png" width="250">
+<img src="screenshots/event.png" width="250">
+
+### Detail Event
+<img src="screenshots/detailevent.png" width="250">
 
 ### Halaman Kontak
-<!-- Tambahkan screenshot contact page di sini -->
-<img src="screenshots/contact_page.png" width="250">
+<img src="screenshots/contact.png" width="250">
 
 ---
 
@@ -94,7 +98,7 @@ lib/
 
 1. Clone repository ini
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/finadio/H1D023119_Aplikasi-Flutter-Sederhana_CPMK-3-Pemrograman-Mobile-C.git
    ```
 
 2. Masuk ke direktori project
