@@ -113,5 +113,4 @@ lib/
    ```
 
 ---
-
-** 2025 Fina Julianti - Universitas Jenderal Soedirman**
+**© 2024 Fina Julianti - Universitas Jenderal Soedirman**
